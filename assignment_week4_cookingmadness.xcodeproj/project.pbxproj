@@ -16,6 +16,35 @@
 		2701EC6D296EB3A400305633 /* assignment_week4_cookingmadnessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701EC6C296EB3A400305633 /* assignment_week4_cookingmadnessTests.swift */; };
 		2701EC77296EB3A400305633 /* assignment_week4_cookingmadnessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701EC76296EB3A400305633 /* assignment_week4_cookingmadnessUITests.swift */; };
 		2701EC79296EB3A400305633 /* assignment_week4_cookingmadnessUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701EC78296EB3A400305633 /* assignment_week4_cookingmadnessUITestsLaunchTests.swift */; };
+		2701EC93296ED16F00305633 /* burnt.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC8E296ED16E00305633 /* burnt.png */; };
+		2701EC95296ED16F00305633 /* goodmeat.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC90296ED16F00305633 /* goodmeat.png */; };
+		2701EC97296ED16F00305633 /* meat_with_lettuce.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC92296ED16F00305633 /* meat_with_lettuce.png */; };
+		2701EC99296FCF3C00305633 /* bubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC98296FCF3C00305633 /* bubble.png */; };
+		2701EC9C296FD1E100305633 /* plate_lm.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC9A296FD1E100305633 /* plate_lm.png */; };
+		2701EC9D296FD1E100305633 /* plate_m.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701EC9B296FD1E100305633 /* plate_m.png */; };
+		2701ECA1297020F000305633 /* timer_green.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECA0297020F000305633 /* timer_green.gif */; };
+		2701ECA32970228100305633 /* meat_raw.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECA22970228100305633 /* meat_raw.png */; };
+		2701ECA52970236400305633 /* timerLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701ECA42970236400305633 /* timerLoad.swift */; };
+		2701ECA729702AB400305633 /* realRaw.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECA629702AB400305633 /* realRaw.png */; };
+		2701ECAB29704C8B00305633 /* madman.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECAA29704C8B00305633 /* madman.png */; };
+		2701ECAD29705C4F00305633 /* man1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECAC29705C4F00305633 /* man1.png */; };
+		2701ECB12970FAA500305633 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECB02970FAA500305633 /* background.png */; };
+		2701ECBB2971027900305633 /* smile_woman.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECB82971027900305633 /* smile_woman.png */; };
+		2701ECBC2971027900305633 /* angry_woman.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECB92971027900305633 /* angry_woman.png */; };
+		2701ECBD2971027900305633 /* sad_woman.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECBA2971027900305633 /* sad_woman.png */; };
+		2701ECBF2971031A00305633 /* bubble_w.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECBE2971031A00305633 /* bubble_w.png */; };
+		2701ECC3297113D400305633 /* beer2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECC1297113D400305633 /* beer2.jpeg */; };
+		2701ECC52971141500305633 /* beer3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECC42971141500305633 /* beer3.png */; };
+		2701ECC72971153600305633 /* beer.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECC62971153600305633 /* beer.png */; };
+		2701ECC92971182F00305633 /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECC82971182F00305633 /* check.png */; };
+		2701ECCF2971296500305633 /* gameStartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701ECCE2971296500305633 /* gameStartViewController.swift */; };
+		2701ECD129712D1100305633 /* startgame.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECD029712D1100305633 /* startgame.png */; };
+		2701ECD32971336400305633 /* launchscreen_cm.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECD22971336400305633 /* launchscreen_cm.PNG */; };
+		2701ECD529713CE700305633 /* failViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701ECD429713CE700305633 /* failViewController.swift */; };
+		2701ECD729713D0C00305633 /* succeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2701ECD629713D0C00305633 /* succeedViewController.swift */; };
+		2701ECDA29713EF000305633 /* gameover.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECD829713EF000305633 /* gameover.png */; };
+		2701ECDB29713EF000305633 /* succeed.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECD929713EF000305633 /* succeed.png */; };
+		2701ECDD29713F3200305633 /* cong.png in Resources */ = {isa = PBXBuildFile; fileRef = 2701ECDC29713F3200305633 /* cong.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +78,35 @@
 		2701EC72296EB3A400305633 /* assignment_week4_cookingmadnessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = assignment_week4_cookingmadnessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2701EC76296EB3A400305633 /* assignment_week4_cookingmadnessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment_week4_cookingmadnessUITests.swift; sourceTree = "<group>"; };
 		2701EC78296EB3A400305633 /* assignment_week4_cookingmadnessUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment_week4_cookingmadnessUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2701EC8E296ED16E00305633 /* burnt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burnt.png; sourceTree = "<group>"; };
+		2701EC90296ED16F00305633 /* goodmeat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goodmeat.png; sourceTree = "<group>"; };
+		2701EC92296ED16F00305633 /* meat_with_lettuce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meat_with_lettuce.png; sourceTree = "<group>"; };
+		2701EC98296FCF3C00305633 /* bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble.png; sourceTree = "<group>"; };
+		2701EC9A296FD1E100305633 /* plate_lm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plate_lm.png; sourceTree = "<group>"; };
+		2701EC9B296FD1E100305633 /* plate_m.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plate_m.png; sourceTree = "<group>"; };
+		2701ECA0297020F000305633 /* timer_green.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = timer_green.gif; sourceTree = "<group>"; };
+		2701ECA22970228100305633 /* meat_raw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meat_raw.png; sourceTree = "<group>"; };
+		2701ECA42970236400305633 /* timerLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timerLoad.swift; sourceTree = "<group>"; };
+		2701ECA629702AB400305633 /* realRaw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = realRaw.png; sourceTree = "<group>"; };
+		2701ECAA29704C8B00305633 /* madman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = madman.png; sourceTree = "<group>"; };
+		2701ECAC29705C4F00305633 /* man1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man1.png; sourceTree = "<group>"; };
+		2701ECB02970FAA500305633 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		2701ECB82971027900305633 /* smile_woman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smile_woman.png; sourceTree = "<group>"; };
+		2701ECB92971027900305633 /* angry_woman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry_woman.png; sourceTree = "<group>"; };
+		2701ECBA2971027900305633 /* sad_woman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad_woman.png; sourceTree = "<group>"; };
+		2701ECBE2971031A00305633 /* bubble_w.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_w.png; sourceTree = "<group>"; };
+		2701ECC1297113D400305633 /* beer2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beer2.jpeg; sourceTree = "<group>"; };
+		2701ECC42971141500305633 /* beer3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beer3.png; sourceTree = "<group>"; };
+		2701ECC62971153600305633 /* beer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beer.png; sourceTree = "<group>"; };
+		2701ECC82971182F00305633 /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
+		2701ECCE2971296500305633 /* gameStartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameStartViewController.swift; sourceTree = "<group>"; };
+		2701ECD029712D1100305633 /* startgame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = startgame.png; sourceTree = "<group>"; };
+		2701ECD22971336400305633 /* launchscreen_cm.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchscreen_cm.PNG; sourceTree = "<group>"; };
+		2701ECD429713CE700305633 /* failViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = failViewController.swift; sourceTree = "<group>"; };
+		2701ECD629713D0C00305633 /* succeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = succeedViewController.swift; sourceTree = "<group>"; };
+		2701ECD829713EF000305633 /* gameover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameover.png; sourceTree = "<group>"; };
+		2701ECD929713EF000305633 /* succeed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = succeed.png; sourceTree = "<group>"; };
+		2701ECDC29713F3200305633 /* cong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cong.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +157,15 @@
 		2701EC54296EB3A300305633 /* assignment_week4_cookingmadness */ = {
 			isa = PBXGroup;
 			children = (
+				2701ECDE2971445D00305633 /* ViewController */,
+				2701EC85296EC4EC00305633 /* image */,
 				2701EC55296EB3A300305633 /* AppDelegate.swift */,
 				2701EC57296EB3A300305633 /* SceneDelegate.swift */,
-				2701EC59296EB3A300305633 /* ViewController.swift */,
 				2701EC5B296EB3A300305633 /* Main.storyboard */,
 				2701EC5E296EB3A300305633 /* Assets.xcassets */,
 				2701EC60296EB3A300305633 /* LaunchScreen.storyboard */,
 				2701EC63296EB3A300305633 /* Info.plist */,
+				2701ECA42970236400305633 /* timerLoad.swift */,
 			);
 			path = assignment_week4_cookingmadness;
 			sourceTree = "<group>";
@@ -125,6 +185,49 @@
 				2701EC78296EB3A400305633 /* assignment_week4_cookingmadnessUITestsLaunchTests.swift */,
 			);
 			path = assignment_week4_cookingmadnessUITests;
+			sourceTree = "<group>";
+		};
+		2701EC85296EC4EC00305633 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				2701ECB92971027900305633 /* angry_woman.png */,
+				2701ECBA2971027900305633 /* sad_woman.png */,
+				2701ECB82971027900305633 /* smile_woman.png */,
+				2701ECB02970FAA500305633 /* background.png */,
+				2701ECA629702AB400305633 /* realRaw.png */,
+				2701ECA22970228100305633 /* meat_raw.png */,
+				2701EC9A296FD1E100305633 /* plate_lm.png */,
+				2701EC9B296FD1E100305633 /* plate_m.png */,
+				2701EC8E296ED16E00305633 /* burnt.png */,
+				2701EC90296ED16F00305633 /* goodmeat.png */,
+				2701EC92296ED16F00305633 /* meat_with_lettuce.png */,
+				2701ECAC29705C4F00305633 /* man1.png */,
+				2701EC98296FCF3C00305633 /* bubble.png */,
+				2701ECA0297020F000305633 /* timer_green.gif */,
+				2701ECAA29704C8B00305633 /* madman.png */,
+				2701ECBE2971031A00305633 /* bubble_w.png */,
+				2701ECC1297113D400305633 /* beer2.jpeg */,
+				2701ECC42971141500305633 /* beer3.png */,
+				2701ECC62971153600305633 /* beer.png */,
+				2701ECC82971182F00305633 /* check.png */,
+				2701ECD029712D1100305633 /* startgame.png */,
+				2701ECD22971336400305633 /* launchscreen_cm.PNG */,
+				2701ECD829713EF000305633 /* gameover.png */,
+				2701ECD929713EF000305633 /* succeed.png */,
+				2701ECDC29713F3200305633 /* cong.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		2701ECDE2971445D00305633 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				2701EC59296EB3A300305633 /* ViewController.swift */,
+				2701ECCE2971296500305633 /* gameStartViewController.swift */,
+				2701ECD629713D0C00305633 /* succeedViewController.swift */,
+				2701ECD429713CE700305633 /* failViewController.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +334,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2701EC95296ED16F00305633 /* goodmeat.png in Resources */,
+				2701ECBF2971031A00305633 /* bubble_w.png in Resources */,
+				2701ECB12970FAA500305633 /* background.png in Resources */,
+				2701EC9C296FD1E100305633 /* plate_lm.png in Resources */,
+				2701ECDB29713EF000305633 /* succeed.png in Resources */,
+				2701ECC52971141500305633 /* beer3.png in Resources */,
 				2701EC62296EB3A300305633 /* LaunchScreen.storyboard in Resources */,
+				2701ECBD2971027900305633 /* sad_woman.png in Resources */,
+				2701ECBB2971027900305633 /* smile_woman.png in Resources */,
+				2701EC93296ED16F00305633 /* burnt.png in Resources */,
+				2701EC99296FCF3C00305633 /* bubble.png in Resources */,
+				2701ECBC2971027900305633 /* angry_woman.png in Resources */,
 				2701EC5F296EB3A300305633 /* Assets.xcassets in Resources */,
+				2701ECA32970228100305633 /* meat_raw.png in Resources */,
+				2701ECC3297113D400305633 /* beer2.jpeg in Resources */,
+				2701ECAD29705C4F00305633 /* man1.png in Resources */,
 				2701EC5D296EB3A300305633 /* Main.storyboard in Resources */,
+				2701ECD129712D1100305633 /* startgame.png in Resources */,
+				2701ECA729702AB400305633 /* realRaw.png in Resources */,
+				2701ECC92971182F00305633 /* check.png in Resources */,
+				2701ECAB29704C8B00305633 /* madman.png in Resources */,
+				2701EC9D296FD1E100305633 /* plate_m.png in Resources */,
+				2701ECDD29713F3200305633 /* cong.png in Resources */,
+				2701ECDA29713EF000305633 /* gameover.png in Resources */,
+				2701ECA1297020F000305633 /* timer_green.gif in Resources */,
+				2701ECD32971336400305633 /* launchscreen_cm.PNG in Resources */,
+				2701EC97296ED16F00305633 /* meat_with_lettuce.png in Resources */,
+				2701ECC72971153600305633 /* beer.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +386,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2701ECD529713CE700305633 /* failViewController.swift in Sources */,
 				2701EC5A296EB3A300305633 /* ViewController.swift in Sources */,
+				2701ECCF2971296500305633 /* gameStartViewController.swift in Sources */,
+				2701ECD729713D0C00305633 /* succeedViewController.swift in Sources */,
 				2701EC56296EB3A300305633 /* AppDelegate.swift in Sources */,
 				2701EC58296EB3A300305633 /* SceneDelegate.swift in Sources */,
+				2701ECA52970236400305633 /* timerLoad.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,8 +575,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -471,8 +603,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
